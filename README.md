@@ -8,5 +8,3 @@
 This folder contains some example models, datasets and tasks that you can use for mantra. Simply take the folder and put it into your **models/**, **data/** or **tasks/** folder as appropriate.
 
 If you have any cool models that you want to submit to this examples repository, then make a pull request!
-
-Any issues? Open a...erm...issue?
