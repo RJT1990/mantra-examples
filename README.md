@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="500" src="docs/source/logo.png">    
+    <img width="500" src="https://github.com/RJT1990/mantra/raw/master/docs/source/logo.png">    
     <h1> Examples </h2>
 </div>
 
